@@ -1,0 +1,11 @@
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\bin\Debug\netcoreapp2.2\FaceGraph.CMD.deps.json
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\bin\Debug\netcoreapp2.2\FaceGraph.CMD.runtimeconfig.json
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\bin\Debug\netcoreapp2.2\FaceGraph.CMD.runtimeconfig.dev.json
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\bin\Debug\netcoreapp2.2\FaceGraph.CMD.dll
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\obj\Debug\netcoreapp2.2\FaceGraph.CMD.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\obj\Debug\netcoreapp2.2\FaceGraph.CMD.AssemblyInfoInputs.cache
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\obj\Debug\netcoreapp2.2\FaceGraph.CMD.AssemblyInfo.cs
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\bin\Debug\netcoreapp2.2\FaceGraph.CMD.pdb
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\obj\Debug\netcoreapp2.2\FaceGraph.CMD.csprojAssemblyReference.cache
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\obj\Debug\netcoreapp2.2\FaceGraph.CMD.dll
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.CMD\obj\Debug\netcoreapp2.2\FaceGraph.CMD.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceGraph.API", "FaceGraph.API\FaceGraph.API.csproj", "{7326F756-F3B3-4B03-B8E0-F0267333C464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceGraph.CMD", "FaceGraph.CMD\FaceGraph.CMD.csproj", "{57D38A5D-F3B6-4429-B270-8FFCDDD39FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7326F756-F3B3-4B03-B8E0-F0267333C464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7326F756-F3B3-4B03-B8E0-F0267333C464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7326F756-F3B3-4B03-B8E0-F0267333C464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7326F756-F3B3-4B03-B8E0-F0267333C464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D38A5D-F3B6-4429-B270-8FFCDDD39FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D38A5D-F3B6-4429-B270-8FFCDDD39FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D38A5D-F3B6-4429-B270-8FFCDDD39FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D38A5D-F3B6-4429-B270-8FFCDDD39FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60450B42-B3B3-49FF-8D98-A146513C3614}
+	EndGlobalSection
+EndGlobal

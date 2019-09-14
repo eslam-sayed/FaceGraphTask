@@ -1,0 +1,14 @@
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\bin\Debug\netcoreapp2.2\FaceGraph.API.deps.json
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\bin\Debug\netcoreapp2.2\FaceGraph.API.runtimeconfig.json
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\bin\Debug\netcoreapp2.2\FaceGraph.API.runtimeconfig.dev.json
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\bin\Debug\netcoreapp2.2\FaceGraph.API.dll
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.RazorAssemblyInfo.cache
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.RazorAssemblyInfo.cs
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.AssemblyInfoInputs.cache
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.AssemblyInfo.cs
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.RazorTargetAssemblyInfo.cache
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\bin\Debug\netcoreapp2.2\FaceGraph.API.pdb
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.dll
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.pdb
+C:\Users\Islam\source\repos\FaceGraph\FaceGraph.API\obj\Debug\netcoreapp2.2\FaceGraph.API.csprojAssemblyReference.cache
